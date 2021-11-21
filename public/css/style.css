@@ -1,0 +1,22 @@
+
+.logoNav{
+    padding-top: 2rem;
+    padding-bottom: 1.75rem;
+    width: 80%;
+}
+.fondo_login{
+    background-image: url("../image/fondo_login.jpg");
+}
+.login_imagen{
+    background: url("../image/login_imagen.png");
+    background-position: center;
+    background-size: cover;
+}
+.img_error{
+    width: 45% ;
+}
+@media (max-width: 420px) {
+    .img_error{
+        width: 100% ;
+    }
+}

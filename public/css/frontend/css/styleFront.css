@@ -1,0 +1,41 @@
+.centrarNosotros{
+    text-align: center;
+
+}
+.justificarNosotros{
+    text-align: justify;
+    padding-right: 2rem;
+    padding-top: 3rem;
+}
+.tituloMagis{
+    font-weight: bold;
+    color: darkred;
+    text-align: center;
+}
+.pMagis{
+    text-align: center;
+    color: darkblue;
+    font-size: medium;
+}
+.imagenMagis{
+    height: 15rem;
+    width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.content_contacto{
+    color: #989898;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.card_servicios{
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    color: darkblue;
+}
+.card_servicios_p{
+    color: black;
+}
